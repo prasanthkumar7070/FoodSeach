@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/FoodSeach/static/css/main.14704e94.css",
-    "main.js": "/FoodSeach/static/js/main.b4e963a0.js",
+    "main.js": "/FoodSeach/static/js/main.53c67c00.js",
     "static/js/787.fb30ea0a.chunk.js": "/FoodSeach/static/js/787.fb30ea0a.chunk.js",
     "index.html": "/FoodSeach/index.html",
     "main.14704e94.css.map": "/FoodSeach/static/css/main.14704e94.css.map",
-    "main.b4e963a0.js.map": "/FoodSeach/static/js/main.b4e963a0.js.map",
+    "main.53c67c00.js.map": "/FoodSeach/static/js/main.53c67c00.js.map",
     "787.fb30ea0a.chunk.js.map": "/FoodSeach/static/js/787.fb30ea0a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.14704e94.css",
-    "static/js/main.b4e963a0.js"
+    "static/js/main.53c67c00.js"
   ]
 }
